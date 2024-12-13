@@ -40,4 +40,4 @@ The goal is to classify the flowers into one of three species based on these fea
 
 # Acknowledgments ✨
 
-I would like to thank DR Mustafa for en 
+I'd like to thank Dr. Mustafa Youldas for his valuable expertise and persistent support.
